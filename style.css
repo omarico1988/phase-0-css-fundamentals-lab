@@ -3,3 +3,67 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+h1{
+  text-align: center;
+  
+}
+
+nav{
+  text-align: center;
+  
+}
+
+.links{
+  padding: 10px;
+  background-color:grey;
+}
+
+#featured-property{
+  width: 800px;
+  text-align: center;
+
+}
+
+img{
+  margin-left: 260px;
+}
+
+figcaption{
+  font-size: 20px;
+  text-align: center;
+  margin-left:200px;
+  
+}
+figure {
+  display: inline-block;
+  
+  margin: 20px; /* adjust as needed */
+}
+
+.para1{
+  width: 800px;
+  text-align: center;
+  margin-left:300px ;
+
+}
+
+div{
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+#details{
+  background-color: red;
+  width: 100%;
+  display: inline-block;
+  
+}
+
+a{
+  text-align: center;
+  vertical-align:top;
+  
+}
